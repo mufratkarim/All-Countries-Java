@@ -4,7 +4,7 @@ A Country Directory app that shows relevant info of countries with modern Androi
 # Tools
 MVVM Architecture, Retrofit with JSON, RxJava, Dependency Injection (Dagger2), Unit Testing (JUnit, Mockito), Data Binding (Butterknife).
 
-![Video](https://github.com/mufratkarim/All-Countries/blob/master/countries.gif)
+![Video](https://github.com/mufratkarim/All-Countries/blob/master/all_countries.gif)
 
 # Activities 
 
